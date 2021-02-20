@@ -1,0 +1,13 @@
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\obj\Debug\netcoreapp3.1\SpellCheck.csprojAssemblyReference.cache
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\obj\Debug\netcoreapp3.1\SpellCheck.AssemblyInfoInputs.cache
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\obj\Debug\netcoreapp3.1\SpellCheck.AssemblyInfo.cs
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\obj\Debug\netcoreapp3.1\SpellCheck.csproj.CoreCompileInputs.cache
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\bin\Debug\netcoreapp3.1\SpellCheck.exe
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\bin\Debug\netcoreapp3.1\SpellCheck.deps.json
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\bin\Debug\netcoreapp3.1\SpellCheck.runtimeconfig.json
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\bin\Debug\netcoreapp3.1\SpellCheck.runtimeconfig.dev.json
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\bin\Debug\netcoreapp3.1\SpellCheck.dll
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\bin\Debug\netcoreapp3.1\SpellCheck.pdb
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\obj\Debug\netcoreapp3.1\SpellCheck.dll
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\obj\Debug\netcoreapp3.1\SpellCheck.pdb
+C:\Users\teo07\OneDrive\Документы\SpellChecker\SpellCheck\SpellCheck\obj\Debug\netcoreapp3.1\SpellCheck.genruntimeconfig.cache
